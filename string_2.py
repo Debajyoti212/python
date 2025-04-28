@@ -1,0 +1,5 @@
+str=input("enter the string ")
+num1=int(input("enter the num "))
+num2=int(input("enter the num "))
+a=(str[num1:num2])
+print(a)
