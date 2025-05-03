@@ -1,0 +1,8 @@
+a=int(input("enter a "))
+b=int(input("enter b "))
+c=int(input("enter c "))
+d=int(input("enter d "))
+tup=(a,b,c,d)
+print(tup)
+e=int(input("enter e "))
+print(tup.count(e))
